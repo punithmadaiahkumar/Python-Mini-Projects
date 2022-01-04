@@ -11,6 +11,6 @@
 + install psutil and plyer 
 
 ### To execute the project:
-+ Run otp_generator.py
++ Run desktop_battery_notifier.py
 
 <h3>Note:</h3> Output will appear as notification
