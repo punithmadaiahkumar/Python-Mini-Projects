@@ -1,19 +1,20 @@
 # Convert Image Format
+
 These scripts can change format of images from PNG to JPG and JPG to PNG
 
-### Tech Stack:
-+ Python
+### Prerequisites
 
-### Libraries used:
-+ PIL
-+ sys
-+ os
+Required Modules
+- PIL==1.1.6
 
-###  Pre-requirements:
-+ pip install -r requirements.txt
+To install:
+```
+$ pip install -r requirements.txt
+```
 
-### To execute the project:
-+ Dynamic Change
+### How to run the script
+
+- Dynamic Change
     Copy the script `convertDynamic.py` into the directory where images
     are (PNG and/or JPG). And run:
     ``` bash
@@ -22,7 +23,7 @@ These scripts can change format of images from PNG to JPG and JPG to PNG
     This will convert all JPG images to PNG and PNG images to JPG
 	in the present directory tree recursively
 	(i.e. will change format in images inside sub-directories too.)
-+ JPG to PNG (single image)
+- JPG to PNG (single image)
     1. Copy the JPG image to the directory where `JPGtoPNG.py` exists
     2. Replace file name `naruto_first.jpg` inside `JPGtoPNG.py`
 	   (line 3) to input file name (JPG).
@@ -32,7 +33,7 @@ These scripts can change format of images from PNG to JPG and JPG to PNG
       ```
       $ python JPGtoPNG.py
       ```
-+ PNG to JPG (single image)
+- PNG to JPG (single image)
     1. Copy the PNG image in directory where `PNGtoJPG.py` exists
     2. Replace file name `naruto_first.png` inside `PNGtoJPG.py`
 	   (line 3) to input file name (PNG).
@@ -42,3 +43,7 @@ These scripts can change format of images from PNG to JPG and JPG to PNG
       ```
       $ python PNGtoJPG.py
       ```
+
+## *Author Name*
+
+[Ramon Ferreira](https://github.com/ramonfsk)
