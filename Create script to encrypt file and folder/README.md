@@ -8,7 +8,7 @@
 + binascii
 
 ###  Pre-requirements:
-+ `pip install cryptodome`
++ `pip install pycryptodome`
 + `pip install binascii`
 
 ### To execute the project:
