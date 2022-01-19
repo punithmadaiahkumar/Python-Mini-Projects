@@ -9,3 +9,7 @@ A small python program that creates a calculator app
 ### To execute the project:
 + Run `calculator.py`
 
+### Screenshot/GIF showing the sample use of the script
+<!--Remove the below lines and add yours -->
+![ ](output.png)
+
