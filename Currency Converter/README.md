@@ -19,4 +19,4 @@ A small python program that converts currency with live info
 
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
-![ ](/output.png)
+![ ](output.png)
