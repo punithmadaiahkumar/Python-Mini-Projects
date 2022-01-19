@@ -8,7 +8,7 @@ A small python program that converts binary and decimal
 ### To execute the project:
 + Run `decimal_to_binary.py`
 
-### Screenshot
+### Screenshots
 <!--Remove the below lines and add yours -->
 ![ ](output.png)
 
