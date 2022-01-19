@@ -11,5 +11,5 @@ A small python program that creates a calculator app
 
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
-![ ](output.png)
+![ ](output1.png)
 
