@@ -1,5 +1,5 @@
 # Decimal to Binary converter and Vicevarsa
-A small python program that converts binary and decimal
+A small python program that converts binary and decimal.
 
 ### Tech Stack:
 + Python 3
@@ -11,4 +11,3 @@ A small python program that converts binary and decimal
 ### Screenshots
 <!--Remove the below lines and add yours -->
 ![ ](output.png)
-
