@@ -13,9 +13,6 @@ This script takes the website name as input and returns its dns records.
 ### To execute the project:
 + Run `dns_record.py`
 
-### Screenshot
-![ ](output.png)
-
 ### Output:
 It will ask for a website:
 ```
