@@ -10,7 +10,7 @@ This script removes duplicate files in the directory where the script runs.
 
 
 ###  Pre-requirements:
-+ `pip install -r requirements.txt`
++ none
 
 ### To execute the project:
 + Run `duplicatefileremover.py`
