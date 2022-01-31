@@ -10,10 +10,11 @@ This script take a link of GeeksForGeeks article as input and download the compl
 + webdriver-manager
 
 ###  Pre-requirements:
-+ `pip install -r requirements.txt`
++ `pip3 install -r requirements.txt`
 
 ### To execute the project:
 + Run `downloader.py`
 
+
 ### Screenshot
-![Screenshot of the Output](screenshot.jpg)
+ ![Sceenshot](screenshot.jpg)
