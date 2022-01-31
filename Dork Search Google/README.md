@@ -15,7 +15,7 @@ This script will teach you how to auto find the vulnerability sites of sql injec
 + Run `main.py`
 
 
-# Sample use of the script
+### Sample use of the script
 
 + kali@kali$  
 + [?] dork: [inurl:cart.php?id=]
