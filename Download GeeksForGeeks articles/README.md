@@ -16,4 +16,4 @@ This script take a link of GeeksForGeeks article as input and download the compl
 + Run `downloader.py`
 
 ### Screenshot
-![Screenshot of the Output]](screenshot.jpg)
+![Screenshot of the Output](screenshot.jpg)
