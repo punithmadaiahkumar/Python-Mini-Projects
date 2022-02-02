@@ -1,0 +1,3 @@
+pycryptodome==3.14.0
+micropython-binascii==2.4.0
+crypto==1.4.1
