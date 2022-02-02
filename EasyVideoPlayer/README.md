@@ -14,9 +14,7 @@ EasyVideoPlayer script is a video player based on the terminal. It can find the 
 + install `pip install -r requirements.txt`
 
 ### To execute the project:
-+ Run `easy_cartoonify`
++ Run `EasyVideoPlayer.py`
 
-
-### How it works:
-+ This script finds your image file in your pc and automatically changes its the working directory before it starts processing the image. This operation saves the time and energy of the user.  
-+ Please keep in mind that this is the first version of the project and currenty only has 2 options for the cartoon styles. I will add much more depth to the cartoonify-ing process later on.
+### how to execute:
+'cd' to the directory that contains the script and type "python3 EasyVideoPlayer.py". When you are done with the video, use "keyboard interrupt" (Ctrl + C) to exit the player.
