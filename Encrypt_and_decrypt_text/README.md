@@ -1,26 +1,28 @@
-# Export MySql to CSV and send to Wocom
-Export the data in mysql into CSV files and send them to enterprise wechat group chat.
+# Encrypt and Decrypt
+A small python program that encodes and decodes text.
 
 ### Tech Stack:
 + Python
 
 ### Libraries used:
-+ PyMySQL
-+ requests
++ Crypto
++ binascii
 
 ###  Pre-requirements:
 + install `pip install -r requirements.txt`
 
 ### To execute the project:
-+ Run `export_mysql_data_to_csv.py`
++ Run `encrypy_decrypt.py`
 
 ### how to execute:
-```shell
-# 1. edit config.ini
-$ vim config.ini
-# 2. run script
-$ python export_mysql_data_to_csv.py
++ python `encrypy_decrypt.py` "a text"
+
+Example:
 ```
+` python aes_encode.py "hello world" `
+```
+An encrypted file (`encrypted.bin`) will be generated
+when the program has finished running.
 
 ### Output/ Screenshot:
-![Screen shot](pic.png)
+![Screen shot](output.png)
