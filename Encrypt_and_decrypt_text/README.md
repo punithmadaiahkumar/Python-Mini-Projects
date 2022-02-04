@@ -1,28 +1,26 @@
-# Encrypt and Decrypt
-A small python program that encodes and decodes text.
+# Export MySql to CSV and send to Wocom
+Export the data in mysql into CSV files and send them to enterprise wechat group chat.
 
 ### Tech Stack:
 + Python
 
 ### Libraries used:
-+ Crypto
-+ binascii
++ PyMySQL
++ requests
 
 ###  Pre-requirements:
 + install `pip install -r requirements.txt`
 
 ### To execute the project:
-+ Run `encrypy_decrypt.py`
++ Run `export_mysql_data_to_csv.py`
 
 ### how to execute:
-+ python `encrypy_decrypt.py` "a text"
-
-Example:
+```shell
+# 1. edit config.ini
+$ vim config.ini
+# 2. run script
+$ python export_mysql_data_to_csv.py
 ```
-` python aes_encode.py "hello world" `
-```
-An encrypted file (`encrypted.bin`) will be generated
-when the program has finished running.
 
 ### Output/ Screenshot:
-![Screen shot](output.png)
+![Screen shot](pic.png)
