@@ -10,7 +10,7 @@ This script takes an address and return its latitude and longitude.This process 
 + Run `pip install -r requirements.txt`
 
 ### To execute the project:
-+ Run `python find_IMDb_rating.py`
++ Run `python geocoding.py`
 
 ### Note:
 + This script takes an address and return its latitude and longitude. This process is called geocoding
