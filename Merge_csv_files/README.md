@@ -7,6 +7,7 @@ With the help of the following simple python script, one would be able to merge 
 
 ### Libraries used:
 + pandas
++ glob
 
 ###  Pre-requirements:
 + install `pip install -r requirements.txt`
