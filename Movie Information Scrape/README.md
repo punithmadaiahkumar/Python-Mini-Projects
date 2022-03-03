@@ -15,4 +15,4 @@ This script obtains movie details by scraping IMDB website.
 + Run `python movieInfoScraper.py`
 
 ### Screenshot/ Output:
-![Screenshot of the Output](Screenshot.png)
+![Screenshot of the Output](output.png)
