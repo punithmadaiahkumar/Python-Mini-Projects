@@ -7,7 +7,7 @@ Script to play rock paper scissor game
 ### To execute the project/play:
 + You can enter the number of games you want to play.
 + You can enter the number of games you want to play.
-+ Run `reduce_image_size.py`
++ Run `Rock_Paper_Scissors_Game.py`
 
 ### Output/ Screenshot
 ![Screenshot of the Output](op1.png)
