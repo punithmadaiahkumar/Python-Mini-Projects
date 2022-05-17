@@ -12,7 +12,7 @@ which sends the same message to a list of recipients.
 
 ### To execute the project/play:
 + Run `pip install -r requirements.txt`
-+ `emails.csv` should contain the email addresses to send the message to.
++ `mails.csv` should contain the email addresses to send the message to.
 + `credentials.txt` should contain your SMTP server login credentials, with your user name and your password on sepate lines, with no additional whitespace or other decorations.
 + Execute `python3 send_mail.py`
 
